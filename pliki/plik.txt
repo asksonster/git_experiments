@@ -1,2 +1,4 @@
 update treści
 uodate na branchu2
+
+zmiana na b2, podczas gdy inna na main
