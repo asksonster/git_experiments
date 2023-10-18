@@ -1,3 +1,6 @@
 update treści
 
 zmiana na main, podczas gdy inna na b2
+uodate na branchu2
+
+zmiana na b2, podczas gdy inna na main
