@@ -1,2 +1,5 @@
 ten kiedys bedziemy chcieli usunąć, aby nie mozna go było wyciągnąc z historii
 ale najpierw, jakies zmiany w nim.
+
+
+dodano na branch 1
