@@ -1,1 +1,3 @@
 update treści
+
+zmiana na main, podczas gdy inna na b2
