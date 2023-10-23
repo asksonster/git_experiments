@@ -6,3 +6,5 @@ uodate na branchu2
 zmiana na b2, podczas gdy inna na main
 
 Dodano na main
+
+Na rebase
