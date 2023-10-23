@@ -8,3 +8,5 @@ zmiana na b2, podczas gdy inna na main
 Dodano na main
 
 Na rebase
+
+ficzer
