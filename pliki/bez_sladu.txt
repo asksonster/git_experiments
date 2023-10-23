@@ -7,4 +7,6 @@ na branchu2
 
 tymczasem w main
 
+znow main
+
 tu będzie konflikt z main
