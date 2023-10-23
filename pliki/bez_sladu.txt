@@ -5,4 +5,6 @@ ale najpierw, jakies zmiany w nim.
 dodano na branch 1
 na branchu2
 
+tymczasem w main
+
 tu będzie konflikt z main
