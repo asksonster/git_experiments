@@ -1,1 +1,3 @@
 inne zmiany podczas trwania brancha rebase.
+
+update na main
