@@ -1,3 +1,5 @@
 remote zmiana na main 2
 
 zmiana po fetchu
+
+lokalna zmiana w workspace
