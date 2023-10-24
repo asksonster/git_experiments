@@ -4,3 +4,6 @@ zmiana po fetchu
 
 lokalna zmiana w workspace
 konfliktowa zmiana
+
+
+oto ja, asksonter, przemawiam forkiem
