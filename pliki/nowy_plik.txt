@@ -1,2 +1,3 @@
 update1
 commit na branchu
+kolejny commit na branchu
