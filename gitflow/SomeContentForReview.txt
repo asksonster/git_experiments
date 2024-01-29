@@ -1,4 +1,6 @@
 State vs. Strategy Pattern
+
+
 Both design patterns are very similar, but their UML diagram is the same, with the idea behind them slightly different.
 
 First, the strategy pattern defines a family of interchangeable algorithms. Generally, they achieve the same goal, but with a different implementation, for example, sorting or rendering algorithms.
